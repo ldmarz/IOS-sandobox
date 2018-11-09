@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TILiOS/ViewControllers/AcronymsTableViewController.swift"
+            timestampString = "563485405.493615"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "refresh(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TILiOS/ViewControllers/UsersTableViewController.swift"
+            timestampString = "563485405.494146"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "58"
+            endingLineNumber = "58"
+            landmarkName = "refresh(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (TILiOS.GetResourcesRequest&lt;TILiOS.User&gt;) -&gt; () in TILiOS.UsersTableViewController.refresh(Swift.Optional&lt;__C.UIRefreshControl&gt;) -&gt; ()"
+                  moduleName = "TILiOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leninmartinez/Documents/sandbox/vapor/noob/TILiOS/TILiOS/ViewControllers/UsersTableViewController.swift"
+                  timestampString = "563463845.401302"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "793">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #2 () -&gt; () in closure #1 (TILiOS.GetResourcesRequest&lt;TILiOS.User&gt;) -&gt; () in TILiOS.UsersTableViewController.refresh(Swift.Optional&lt;__C.UIRefreshControl&gt;) -&gt; ()"
+                  moduleName = "TILiOS"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leninmartinez/Documents/sandbox/vapor/noob/TILiOS/TILiOS/ViewControllers/UsersTableViewController.swift"
+                  timestampString = "563463845.406106"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "58"
+                  endingLineNumber = "58"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "TILiOS/ViewControllers/UsersTableViewController.swift"
+            timestampString = "563485405.494197"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "76"
+            endingLineNumber = "76"
+            landmarkName = "tableView(_:cellForRowAt:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
